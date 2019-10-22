@@ -19,6 +19,9 @@ Roadmap
 1. (Post)
 1. Styled Components
 1. (Project)
+1. TypeScript
+1. (Project)
+1. (Post)
 1. NodeJS
 1. KOA
 1. Postgresql
