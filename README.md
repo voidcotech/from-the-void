@@ -73,6 +73,7 @@ Roadmap
     - Use version control (git)
     - Fork this project and send a PR with your website
 1. **Write a Post (in English) teaching what you've learned so far**
+    - Publish on Medium and/or dev.to
 1. **Algorithms**
 1. **JavaScript**
     - Concepts
@@ -113,6 +114,7 @@ Roadmap
     - Push the code to Github
     - Send a PR
 1. **Write a Post (in English) teaching what you've learned about JavaScript**
+    - Publish on Medium and/or dev.to
 1. **NPM, Yarn**
 1. **ReactJS**
 1. **Redux concepts**
